@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ohmysahyadri",
+    "description": "",
+    "home_page_url": "https://ohmysahyadri.github.io/blogs",
+    "feed_url": "https://ohmysahyadri.github.io/blogs/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sohan Kale"
+    },
+    "items": [
+        {
+            "id": "https://ohmysahyadri.github.io/blogs/this-is-first-post.html",
+            "url": "https://ohmysahyadri.github.io/blogs/this-is-first-post.html",
+            "title": "This is first post",
+            "summary": " Hello there, this is my first post for testing. ",
+            "content_html": "\n  <p>\n    Hello there, this is my first post for testing.\n  </p>",
+            "author": {
+                "name": "Sohan Kale"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-03T19:41:27+05:30",
+            "date_modified": "2021-01-03T19:41:27+05:30"
+        }
+    ]
+}
